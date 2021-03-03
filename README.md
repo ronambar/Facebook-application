@@ -8,7 +8,7 @@ The app allows the user two new features:
 triva about his facebook friends information.
 2) find maching with his facebook friends.
 
-- The app implementaion includes several Design patterns:
+The app implementaion includes several Design patterns:
 1) Singelton.
 2) facade.
 3) Proxy.
